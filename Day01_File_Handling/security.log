@@ -1,1 +1,7 @@
-
+2026-09-22 09:10:11 AUTH_SUCCESS user=raj src_ip=10.0.0.5
+2026-09-22 09:11:32 AUTH_FAIL user=admin src_ip=192.168.1.50
+2026-09-22 09:11:35 AUTH_FAIL user=admin src_ip=192.168.1.50
+2026-09-22 09:11:38 AUTH_FAIL user=admin src_ip=192.168.1.50
+2026-09-22 09:12:01 AUTH_SUCCESS user=raj src_ip=10.0.0.5
+2026-09-22 09:13:20 AUTH_FAIL user=test src_ip=10.0.0.25
+2026-09-22 09:15:20 AUTH_FAIL user=guest src_ip=172.16.10.25
